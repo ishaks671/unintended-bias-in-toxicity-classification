@@ -1,0 +1,10 @@
+#### data sources for the project ####
+
+
+https://www.kaggle.com/takuok/glove840b300dtxt
+
+
+https://www.kaggle.com/yekenot/fasttext-crawl-300d-2m
+
+
+https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification/data
